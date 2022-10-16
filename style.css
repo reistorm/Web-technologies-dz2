@@ -1,0 +1,16 @@
+body{
+    background: rgb(255,255,255);
+    background: linear-gradient(90deg, rgba(255,255,255, 1) 0%, rgba(55,234,255,1) 100%, rgba(226, 0, 255, 1) 50%)
+}
+h1{
+    color: red;
+    font-family:'Times New Roman', Times, serif;
+    font-size:5rem;
+    text-transform: capitalize;
+}
+h2{
+    color: blue;
+    font-family:'Times New Roman', Times, serif;
+    font-size:5rem;
+    text-transform: capitalize;
+}
